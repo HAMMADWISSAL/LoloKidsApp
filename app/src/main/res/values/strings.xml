@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">LoLoKids</string>
+
+    <!-- Main Menu -->
+    <string name="app_title">LoLoKids</string>
+    <string name="learn_arabic">Learn Arabic\nتعلم العربية</string>
+    <string name="learn_french">Learn French\nApprendre le Français</string>
+    <string name="welcome_message">Choose a Language!</string>
+
+    <!-- Alphabet List -->
+    <string name="arabic_alphabet">Arabic Alphabet</string>
+    <string name="french_alphabet">French Alphabet</string>
+    <string name="tap_letter">Tap a letter to learn!</string>
+
+    <!-- Letter Tracing -->
+    <string name="trace_letter">Trace the Letter</string>
+    <string name="clear">Clear</string>
+    <string name="repeat_sound">Repeat Sound</string>
+    <string name="next_letter">Next</string>
+    <string name="back">Back</string>
+    <string name="great_job">Great Job!</string>
+    <string name="try_again">Try Again!</string>
+
+    <!-- Sounds -->
+    <string name="play_sound">Play Sound</string>
+    <string name="sound_not_available">Sound not available</string>
+</resources>

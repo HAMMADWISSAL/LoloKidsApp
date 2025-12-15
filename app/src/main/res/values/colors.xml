@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic Colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Colors - Bright and Fun -->
+    <color name="primary">#FF6B9EF5</color>
+    <color name="primary_dark">#FF4A7FC4</color>
+    <color name="accent">#FFFFC107</color>
+
+    <!-- Kid-Friendly Colors -->
+    <color name="bright_red">#FFFF5252</color>
+    <color name="bright_orange">#FFFF9800</color>
+    <color name="bright_yellow">#FFFFD740</color>
+    <color name="bright_green">#FF66BB6A</color>
+    <color name="bright_blue">#FF42A5F5</color>
+    <color name="bright_purple">#FFAB47BC</color>
+    <color name="bright_pink">#FFEC407A</color>
+
+    <!-- Background Colors -->
+    <color name="background_main">#FFF5F8FF</color>
+    <color name="background_card">#FFFFFFFF</color>
+    <color name="background_arabic">#FFFFE0B2</color>
+    <color name="background_french">#FFE1F5FE</color>
+
+    <!-- Button Colors -->
+    <color name="button_arabic">#FFFF6E40</color>
+    <color name="button_french">#FF29B6F6</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FF212121</color>
+    <color name="text_secondary">#FF757575</color>
+
+    <!-- Drawing Colors -->
+    <color name="drawing_line">#FF2196F3</color>
+    <color name="drawing_background">#FFFFFAEF</color>
+</resources>

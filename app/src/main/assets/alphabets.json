@@ -1,0 +1,276 @@
+{
+  "arabic": [
+    {
+      "character": "ا",
+      "name": "Alif",
+      "position": 1
+    },
+    {
+      "character": "ب",
+      "name": "Ba",
+      "position": 2
+    },
+    {
+      "character": "ت",
+      "name": "Ta",
+      "position": 3
+    },
+    {
+      "character": "ث",
+      "name": "Tha",
+      "position": 4
+    },
+    {
+      "character": "ج",
+      "name": "Jim",
+      "position": 5
+    },
+    {
+      "character": "ح",
+      "name": "Ha",
+      "position": 6
+    },
+    {
+      "character": "خ",
+      "name": "Kha",
+      "position": 7
+    },
+    {
+      "character": "د",
+      "name": "Dal",
+      "position": 8
+    },
+    {
+      "character": "ذ",
+      "name": "Dhal",
+      "position": 9
+    },
+    {
+      "character": "ر",
+      "name": "Ra",
+      "position": 10
+    },
+    {
+      "character": "ز",
+      "name": "Zay",
+      "position": 11
+    },
+    {
+      "character": "س",
+      "name": "Sin",
+      "position": 12
+    },
+    {
+      "character": "ش",
+      "name": "Shin",
+      "position": 13
+    },
+    {
+      "character": "ص",
+      "name": "Sad",
+      "position": 14
+    },
+    {
+      "character": "ض",
+      "name": "Dad",
+      "position": 15
+    },
+    {
+      "character": "ط",
+      "name": "Ta",
+      "position": 16
+    },
+    {
+      "character": "ظ",
+      "name": "Dha",
+      "position": 17
+    },
+    {
+      "character": "ع",
+      "name": "Ayn",
+      "position": 18
+    },
+    {
+      "character": "غ",
+      "name": "Ghayn",
+      "position": 19
+    },
+    {
+      "character": "ف",
+      "name": "Fa",
+      "position": 20
+    },
+    {
+      "character": "ق",
+      "name": "Qaf",
+      "position": 21
+    },
+    {
+      "character": "ك",
+      "name": "Kaf",
+      "position": 22
+    },
+    {
+      "character": "ل",
+      "name": "Lam",
+      "position": 23
+    },
+    {
+      "character": "م",
+      "name": "Mim",
+      "position": 24
+    },
+    {
+      "character": "ن",
+      "name": "Nun",
+      "position": 25
+    },
+    {
+      "character": "ه",
+      "name": "Ha",
+      "position": 26
+    },
+    {
+      "character": "و",
+      "name": "Waw",
+      "position": 27
+    },
+    {
+      "character": "ي",
+      "name": "Ya",
+      "position": 28
+    }
+  ],
+  "french": [
+    {
+      "character": "A",
+      "name": "A",
+      "position": 1
+    },
+    {
+      "character": "B",
+      "name": "B",
+      "position": 2
+    },
+    {
+      "character": "C",
+      "name": "C",
+      "position": 3
+    },
+    {
+      "character": "D",
+      "name": "D",
+      "position": 4
+    },
+    {
+      "character": "E",
+      "name": "E",
+      "position": 5
+    },
+    {
+      "character": "F",
+      "name": "F",
+      "position": 6
+    },
+    {
+      "character": "G",
+      "name": "G",
+      "position": 7
+    },
+    {
+      "character": "H",
+      "name": "H",
+      "position": 8
+    },
+    {
+      "character": "I",
+      "name": "I",
+      "position": 9
+    },
+    {
+      "character": "J",
+      "name": "J",
+      "position": 10
+    },
+    {
+      "character": "K",
+      "name": "K",
+      "position": 11
+    },
+    {
+      "character": "L",
+      "name": "L",
+      "position": 12
+    },
+    {
+      "character": "M",
+      "name": "M",
+      "position": 13
+    },
+    {
+      "character": "N",
+      "name": "N",
+      "position": 14
+    },
+    {
+      "character": "O",
+      "name": "O",
+      "position": 15
+    },
+    {
+      "character": "P",
+      "name": "P",
+      "position": 16
+    },
+    {
+      "character": "Q",
+      "name": "Q",
+      "position": 17
+    },
+    {
+      "character": "R",
+      "name": "R",
+      "position": 18
+    },
+    {
+      "character": "S",
+      "name": "S",
+      "position": 19
+    },
+    {
+      "character": "T",
+      "name": "T",
+      "position": 20
+    },
+    {
+      "character": "U",
+      "name": "U",
+      "position": 21
+    },
+    {
+      "character": "V",
+      "name": "V",
+      "position": 22
+    },
+    {
+      "character": "W",
+      "name": "W",
+      "position": 23
+    },
+    {
+      "character": "X",
+      "name": "X",
+      "position": 24
+    },
+    {
+      "character": "Y",
+      "name": "Y",
+      "position": 25
+    },
+    {
+      "character": "Z",
+      "name": "Z",
+      "position": 26
+    }
+  ]
+}
